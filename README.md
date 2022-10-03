@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/id4c2hq6wfm5cvhk?svg=true)](https://ci.appveyor.com/project/MaksimNosov/gradle-3-web-interface-testing-selenium-selenide-t)
